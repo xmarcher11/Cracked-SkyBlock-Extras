@@ -30,9 +30,9 @@ Alternative Mirrors:
 ## Installation Instructions
 
 1. Download and extract the ZIP archive.
-2. Move `SkyblockExtras_Cracked.jar` to your `.minecraft/mods/` directory.
-3. Launch Minecraft using Forge 1.8.9.
-4. Configure the mod using `/sbeconfig` in-game.
+2. Move `SBE_CRACKED.jar` to your `.minecraft/mods/` directory.
+4. Launch Minecraft using Forge 1.8.9.
+5. Configure the mod using `/sbeconfig` in-game.
 
 ## Known Issues
 
