@@ -1,4 +1,4 @@
-# SkyBlock Extras – Cracked Edition (March 2025)
+# SkyBlock Extras – Cracked Edition (updated 2025)
 
 ## Overview
 
