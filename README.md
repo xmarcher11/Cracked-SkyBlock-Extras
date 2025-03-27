@@ -17,16 +17,6 @@ This is a fully cracked version of SkyBlock Extras with all premium features unl
 - Clean deobfuscated code and repackaged JAR
 - Bonus FPS Boost tool included
 
-## Download
-
-**Latest Version: v2.3.1 Cracked**
-
-Primary Download:  
-[Mediafire Mirror](https://www.mediafire.com/file/8xup1i8k4az1o18/SBE_CRACKED.zip/file)
-
-Alternative Mirrors:  
-- [Mega.io](https://mega.nz/file/jCxzCQBK#0ZEV1bV31qHmpRRbONYlzXvFHlFjOR5Ek1vMik_fkP4)
-
 ## Installation Instructions
 
 1. Download and extract the ZIP archive.
